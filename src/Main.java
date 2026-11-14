@@ -1,4 +1,5 @@
 // Autor:Diogo Correia a22608200
+// Autor: Isaque Santos - a22608528
 
 import java.util.Scanner;
 
